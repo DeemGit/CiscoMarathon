@@ -1,2 +1,7 @@
 backups/
 test.log
+jedha/
+oksana.py
+ntc-templates/
+!*/ntc-templates/templates/*
+devices.csv
